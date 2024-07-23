@@ -1,7 +1,7 @@
 <img src="Hub_logo.png" width="600"/>
 
 # AI & Astrophysics Workshop
-Repository for the Deep Learning InbadaX event in Kampala, 1st August 2024
+Repository for the Deep Learning InbadaX event in Kampala, 1st August 2024.
 
 ## Getting started...
 
