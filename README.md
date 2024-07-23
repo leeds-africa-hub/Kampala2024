@@ -1,3 +1,5 @@
+![Leeds Africa Hub](Hub_logo_medium.png "")
+
 # AI & Astrophysics Workshop - Kampala 2024
 Repository for the Deep Learning InbadaX event in Kampala, 1st August 2024
 
